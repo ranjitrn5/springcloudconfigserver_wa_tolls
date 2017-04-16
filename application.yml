@@ -2,3 +2,4 @@ rate=1.55
 tollstart=05:00
 tollstop=22:00
 lanecount=0
+connstring={cipher}24a3a859dfb7327494562ce92cce32b1e7238850a51c6c87dea32a75cddad8a0cae7171c17ac12df9fb9657d0dc416e543e29ac400f0ff9a3fab07b3d0486ae1fbe0462f9db7812767504c0e8e0134f4
